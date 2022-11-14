@@ -1,4 +1,4 @@
-![HeaderEDA](header.jpg)
+![HeaderEDA](Header.jpg)
 
 **Descripción**
 -----------
